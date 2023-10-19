@@ -1,1 +1,6 @@
 # ubsk2000.github.io
+This report summarizes the modifications and enhancements made to the website. Initially, images were imported into the gallery.html page, where their dimensions were specified. Further adjustments were applied to the image placement, ensuring they were centered. To navigate through the slideshow, "Previous" and "Next" buttons were added to both the HTML and CSS. These buttons' dimensions and spacing were customized in the CSS, along with container positioning.
+
+To ensure the proper functionality of the slideshow, JavaScript was incorporated. This script facilitated the seamless transition between previous and next slides while displaying the current one.
+
+Regarding the form section, it was divided into two separate files: form.html and form.css. In form.html, the basic HTML structure for the form was established, including fields for username, email, password, and password confirmation. JavaScript validation was also implemented to ensure the accuracy of user inputs. The CSS code for the form was provided by the lecturer and was incorporated into the separate form.css file.
